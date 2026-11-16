@@ -17,10 +17,10 @@
 #ifndef _VARIABLES_HEADER_
 #define _VARIABLES_HEADER_
 
-#define TW_MAIN_VERSION_STR       "4.0.0_15"
+#define TW_MAIN_VERSION_STR       "3.0.307.0"
 #define TW_VERSION_STR TW_MAIN_VERSION_STR TW_DEVICE_VERSION
 #define TW_SETTINGS_FILE            ".twrps"
-#define TW_RECOVERY_NAME            "TWRP"
+#define TW_RECOVERY_NAME            "HyperOS"
 #define TW_DEFAULT_RECOVERY_FOLDER  "/" TW_RECOVERY_NAME
 #define TW_STORAGE_PATH             "/data/recovery/"
 #define TW_USE_COMPRESSION_VAR      "tw_use_compression"
