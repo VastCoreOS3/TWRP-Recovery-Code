@@ -33,7 +33,7 @@
 		<string name="autostorage">存储</string>
 
 		<!-- GUI XML strings -->
-		<string name="twrp_header">Team Win Recovery Project</string>
+		<string name="twrp_header">HyperOS Recovery</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
 		<string name="cpu_temp">CPU温度: %tw_cpu_temp% &#xB0;C</string>
 		<string name="battery_pct">电量: %tw_battery%</string>
